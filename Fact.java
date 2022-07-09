@@ -9,5 +9,10 @@ public class Fact
 			res=res*i;
 		}
 		System.out.println("The Factorial "+num+" is =  " +res);
+
+		//new lines added are
+		System.out.println("new lines added are");
+		System.out.println("Testing");
+		System.out.println("The Factorial "+num+" is =  " +res);
 	}
 } 
